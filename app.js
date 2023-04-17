@@ -2,13 +2,13 @@ const movies = [
 {
 title: "Avengers: Endgame",
 genre: "action",
-year: 2019,
+year: 2020,
 image: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg"
 },
 {
 title: "Joker",
 genre: "drama",
-year: 2019,
+year: 2022,
 image: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
 },
 {
@@ -20,19 +20,19 @@ image: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qG59J1Q7rpBc1dvku4az
 {
 title: "Us",
 genre: "horror",
-year: 2019,
+year: 2018,
 image: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mvDVOYluQwcyfqTITJcT2gVesjP.jpg"
 },
 {
 title: "The Notebook",
 genre: "romance",
-year: 2020,
+year: 2021,
 image: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k0oN89q8K1zll9OsHk5NWmHZZGI.jpg"
 },
 {
 title: "Inception",
 genre: "sci-fi",
-year: 2022,
+year: 2019,
 image: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg"
 },
 ];
